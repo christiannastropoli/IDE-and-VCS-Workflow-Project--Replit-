@@ -2,6 +2,7 @@
 
 using namespace std;
 
+
 int main()
 {
   char first, middle, last;
